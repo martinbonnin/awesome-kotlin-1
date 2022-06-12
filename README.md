@@ -508,6 +508,7 @@ A curated list of awesome Kotlin frameworks, libraries, documents and other reso
 - [OPENRNDR](https://github.com/openrndr/) - A Kotlin/JVM library for creative coding, real-time and interactive graphics.
 - [kotlin-semver](https://github.com/z4kn4fein/kotlin-semver) - Semantic Versioning library for Kotlin Multiplatform.
 - [IntroShowCaseView](https://github.com/canopas/Intro-showcase-view) - IntroShowCaseView is an android library to highlight different features of the app built using Jetpack Compose.
+- [Apollo Kotlin](https://github.com/apollographql/apollo-kotlin) - A typesafe, multiplatform GraphQL client generating models from your GraphQL queries.
 
 ## Applications
 
